@@ -15,6 +15,5 @@ public class UserController {
     model.addAttribute("lastname", "Hernández");
     return "details";
   }
-  
 
 }
